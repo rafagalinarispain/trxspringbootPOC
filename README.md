@@ -14,8 +14,7 @@ This is a demo project showcasing the integration of Spring Boot with MongoDB. I
 ### Clone the Repository
 
 ```sh
-git clone <repository-url>
-cd demo
+git clone https://github.com/rafagalinarispain/trxspringbootPOC.git
 ```
 
 ### Build and Run
